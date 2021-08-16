@@ -1,6 +1,6 @@
 {
-    "name": "andri-sudarmawijaya/ci-customer",
-    "description": "CI Customer Package",
+    "name": "andri-sudarmawijaya/ci-hmvc-customer",
+    "description": "CodeIgniter HMVC Customer Module",
     "type": "codeigniter-module",
     "license": "MIT",
     "authors": [
